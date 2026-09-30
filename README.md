@@ -554,7 +554,7 @@ The current system includes:
 More detailed technical documentation, including Modbus function codes and troubleshooting cases, is available in:
 
 [📘 Detailed Project Documentation](docs/PROJECT_DOCUMENTATION.md)
-```
+
 
 ---
 
