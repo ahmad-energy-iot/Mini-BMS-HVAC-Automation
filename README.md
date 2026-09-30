@@ -261,7 +261,6 @@ Eine ausführlichere technische Beschreibung mit detaillierten Erklärungen, Fun
 
 
 
-```markdown
 [📘 Detaillierte Projektdokumentation](docs/PROJECT_DOCUMENTATION.md)
 ```
 
