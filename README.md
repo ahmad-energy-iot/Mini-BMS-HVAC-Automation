@@ -262,7 +262,7 @@ Eine ausführlichere technische Beschreibung mit detaillierten Erklärungen, Fun
 
 
 [📘 Detaillierte Projektdokumentation](docs/PROJECT_DOCUMENTATION.md)
-```
+
 
 ---
 
