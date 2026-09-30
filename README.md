@@ -258,8 +258,11 @@ Das aktuelle System beinhaltet:
 
 Eine ausführlichere technische Beschreibung mit detaillierten Erklärungen, Function Codes und Troubleshooting-Fällen befindet sich unter:
 
-```text
-docs/PROJECT_DOCUMENTATION.md
+
+بـ:
+
+```markdown
+[📘 Detaillierte Projektdokumentation](docs/PROJECT_DOCUMENTATION.md)
 ```
 
 ---
@@ -551,8 +554,7 @@ The current system includes:
 
 More detailed technical documentation, including Modbus function codes and troubleshooting cases, is available in:
 
-```text
-docs/PROJECT_DOCUMENTATION.md
+[📘 Detailed Project Documentation](docs/PROJECT_DOCUMENTATION.md)
 ```
 
 ---
