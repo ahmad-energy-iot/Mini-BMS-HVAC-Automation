@@ -259,7 +259,7 @@ Das aktuelle System beinhaltet:
 Eine ausführlichere technische Beschreibung mit detaillierten Erklärungen, Function Codes und Troubleshooting-Fällen befindet sich unter:
 
 
-بـ:
+
 
 ```markdown
 [📘 Detaillierte Projektdokumentation](docs/PROJECT_DOCUMENTATION.md)
